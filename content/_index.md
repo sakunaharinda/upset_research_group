@@ -8,17 +8,17 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 
+        content: 
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: cover.png
             filters:
-               brightness: 0.7
+               brightness: 0.9
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Reading Group 📖
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
@@ -28,21 +28,21 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+      # - title: World-Class Semiconductor Lab
+      #   content: 'Just opened last month!'
+      #   align: right
+      #   background:
+      #     image:
+      #       filename: welcome.jpg
+      #       filters:
+      #         brightness: 0.5
+      #     position: center
+      #     color: '#333'
+      #   link:
+      #     icon: graduation-cap
+      #     icon_pack: fas
+      #     text: Join Us
+      #     url: ../contact/
     design:
         # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -54,33 +54,32 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        UPSET Lab
       image:
-        filename: welcome.jpg
+        filename: group1.png
       text: |
         <br>
           
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **UPSET Lab** has been a center of excellence for Usable Privacy and Security research, teaching, and practice since its founding in 2023.
   
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+  # - block: collection
+  #   content:
+  #     title: Latest News
+  #     subtitle:
+  #     text:
+  #     count: 5
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: post
+  #   design:
+  #     view: card
+  #     columns: '1'
   
   # - block: markdown
   #   content:
