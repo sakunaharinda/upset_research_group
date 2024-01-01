@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: cover.png
+            filename: code_1.png
             filters:
                brightness: 0.9
           position: right
