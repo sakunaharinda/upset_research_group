@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: code_1.png
+            filename: code.png
             filters:
                brightness: 0.9
           position: right
