@@ -8,19 +8,19 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 
-        content: 
+      - title: UPSET Lab
+        content: Usable Privacy and Security Engineering Technology Lab
         align: center
         background:
           image:
-            filename: code.png
+            filename: code.jpg
             filters:
                brightness: 0.9
           position: right
           color: '#666'
       - title: Reading Group 📖
         content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+        align: center
         background:
           image:
             filename: contact.jpg
