@@ -6,10 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
-  font_size: L
+  mode: system
+  # theme_day: minimal
+  # theme_night: minimal
+  # font: native
+  # font_size: L
 
 # SEO
 
@@ -37,9 +38,10 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    # show_day_night: true
     show_search: true
     highlight_active_link: false
+    show_theme_chooser: true
 
 # Site footer
 
