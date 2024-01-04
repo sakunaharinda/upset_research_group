@@ -61,6 +61,13 @@ sections:
         <br>
           
         The **UPSET Lab** has been a center of excellence for Usable Privacy and Security research, teaching, and practice since its founding in 2023.
+      primary_action:
+        text: Get Started
+        url: https://example.com
+        icon: sparkles
+      secondary_action:
+        text: Read the docs
+        url: https://example.com
   
   # - block: collection
   #   content:

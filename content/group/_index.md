@@ -1,8 +1,8 @@
 ---
-title: Recent & Upcoming Events
+title: Discussed papers
 
 # Listing view
-view: compact
+view: card
 
 # Optional header image (relative to `assets/media/` folder).
 banner:

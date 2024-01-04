@@ -22,7 +22,7 @@ publication_short: ""
 abstract: Administrator-centered access control failures can cause data breaches, putting organizations at risk of financial loss and reputation damage. Existing graphical policy configuration tools and automated policy generation frameworks attempt to help administrators configure and generate access control policies by avoiding such failures. However, graphical policy configuration tools are prone to human errors, making them unusable. On the other hand, automated policy generation frameworks are prone to erroneous predictions, making them unreliable. Therefore, to find ways to improve their usability and reliability, we conducted a Systematic Literature Review analyzing 49 publications, to identify those tools, frameworks, and their limitations. Identifying those limitations will help develop effective access control policy generation solutions while avoiding access control failures.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Access control
