@@ -30,7 +30,7 @@ authors:
 - Niels Henze
 - Albrecht Schmidt
 - Sebastian S. Feger
-tags: [Privacy, Machine Learning, Usability]
+tags: [Privacy and Security, Machine Learning, Usability]
 
 # Is this a featured talk? (true/false)
 featured: false
