@@ -37,7 +37,7 @@ featured: false
 
 image:
   caption: 
-  focal_point: Left
+  focal_point: Center
 
 url_code: ''
 url_pdf: 'https://www.ndss-symposium.org/ndss-paper/auto-draft-284/'

@@ -35,7 +35,7 @@ featured: false
 
 image:
   caption: 
-  focal_point: Left
+  focal_point: Center
 
 url_code: ''
 url_pdf: 'https://dl.acm.org/doi/10.1145/3173574.3174066'
