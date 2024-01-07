@@ -30,7 +30,7 @@ authors:
 - Niels Henze
 - Albrecht Schmidt
 - Sebastian S. Feger
-tags: []
+tags: [Privacy, Machine Learning, Usability]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -40,7 +40,7 @@ image:
   focal_point: Left
 
 url_code: ''
-url_pdf: 'https://dl-acm-org.ezproxy.auckland.ac.nz/doi/abs/10.1145/3491102.3517688'
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3491102.3517688'
 url_slides: ''
 url_video: ''
 
